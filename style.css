@@ -1,0 +1,34 @@
+body {
+    background-color: aqua;
+    width: 100%;
+    margin-left: auto;
+    padding: auto;
+}
+
+    
+#Onyi h1 {
+    text-align: center;
+    margin-top: auto;
+    font-size: xx-large;
+    
+
+}
+.alone {
+    text-align: center;
+}
+#godi dd {
+    font-style: oblique;
+}
+.alone p{
+font-style: italic;
+}
+#Onyi h2 {
+    font-size: large;
+}
+#Odhis {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr {
+    color: black;
+    border-top: 5px solid;
+}
